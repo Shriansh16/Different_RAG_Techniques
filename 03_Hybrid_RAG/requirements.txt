@@ -1,0 +1,14 @@
+streamlit
+streamlit-chat
+python-dotenv
+pinecone-client
+pinecone-text
+langchain
+nltk
+sentence-transformers
+langchain-community
+langchain-groq
+pickle5
+torch
+torchvision
+langchain_huggingface
